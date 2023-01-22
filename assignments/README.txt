@@ -1,1 +1,1 @@
-folder made for assignments
+minor changes in css folder made for assignments
